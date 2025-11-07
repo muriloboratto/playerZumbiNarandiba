@@ -23,7 +23,7 @@ Eles declaram que **Narandiba** será o primeiro passo para a destruição do mu
 
 
 <p align="center">
-<img src="Figures/1.png" width="300">&nbsp;&nbsp;<img src="Figures/2.png" width="300">
+<img src="Figures/1.png" width="300"> <img src="Figures/2.png" width="300">
 </p>
 
 *Player nos dois estados da cena: primeiro em idle com o machado, e segundo transformado devido ao bônus obtido.*
