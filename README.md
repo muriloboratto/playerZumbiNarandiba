@@ -21,8 +21,8 @@ Eles declaram que **Narandiba** será o primeiro passo para a destruição do mu
 * **Arma inicial:** Machado
 * **Habilidade especial:** Atacar com o machado
 
-![Player](Figures/1.png)
-![PlayerPlus](Figures/2.png)
+![Player](Figures/1.png){width=300 height=200}
+![PlayerPlus](Figures/2.png){width=300 height=200}
 *Player nos dois estados da cena: primeiro em idle com o machado, e segundo transformado devido ao bônus obtido.*
 
 **Objetivo:**
