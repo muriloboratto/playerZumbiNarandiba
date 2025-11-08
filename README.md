@@ -104,7 +104,7 @@ Para alcançar o objetivo chave do jogo — passar pela fase enfrentando inimigo
 * **NÃO** inserir mais assets além dos disponibilizados na cena do jogo.
 * Base de avaliação: **Unity 2022.3.26f1**.
 * A avaliação seguirá as regras previamente definidas.
-* O trabalho poderá ser individual ou em dupla e deve ser entregue até **07/11/2025 às 13:00h** via *upload* no Google Classroom.
+* O trabalho poderá ser individual ou em dupla e deve ser entregue até **17/11/2025 às 13:00h** via *upload* no Google Classroom.
 * Quanto mais fiel o jogo for ao descrito, maior será a nota.
 
 ---
